@@ -17,8 +17,10 @@ Every point in the raw data matrix contains part of the information for the comp
 
 # K-space (python)
 ## libraries 
-- CV
+- CV2
 - Matplot
+- numpy.fft
+
 ## Code 
 Using FFT and FFT as follows:
 
